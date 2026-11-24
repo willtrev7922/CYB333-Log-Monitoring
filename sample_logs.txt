@@ -1,0 +1,5 @@
+2026-11-24T09:00:00 | FAILED_LOGIN | user=testuser | ip=192.0.2.10
+2026-11-24T09:01:00 | FAILED_LOGIN | user=testuser | ip=192.0.2.10
+2026-11-24T09:02:00 | FAILED_LOGIN | user=testuser | ip=192.0.2.10
+2026-11-24T09:03:00 | SUCCESSFUL_LOGIN | user=admin_test | ip=192.0.2.20
+2026-11-24T09:04:00 | FAILED_LOGIN | user=testuser2 | ip=192.0.2.30
